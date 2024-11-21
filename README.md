@@ -4,7 +4,7 @@ Automatic Referral Script for BlockMesh Network Account using proxies.
 
 ## PREREQUISITE
 
-1. BlockMesh Network Account : [Register](https://app.blockmesh.xyz/register?invite_code=b54361aa-8051-463e-bd05-fe016a572215)
+1. BlockMesh Network Account : [Register]()
 3. VPS or RDP (OPTIONAL)
 4. Python3 Latest Version
 
@@ -14,7 +14,10 @@ Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/py
 
 1. Clone project repository
    ```bash
-   git clone https://github.com/Rambeboy/blockmesh-autoreferral-bot.git && cd blockmesh-autoreferral-bot
+   git clone https://github.com/Mittyadav/blockmesh-autoreferral-bot.git```
+   
+   ```bash
+   cd blockmesh-autoreferral-bot
    ```
 
 2. Install dependencies

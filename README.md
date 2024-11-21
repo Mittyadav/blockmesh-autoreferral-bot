@@ -14,9 +14,9 @@ Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/py
 
 1. Clone project repository
    ```bash
-   git clone https://github.com/Mittyadav/blockmesh-autoreferral-bot.git```
+   git clone https://github.com/Mittyadav/blockmesh-autoreferral-bot.git
    
-   ```bash
+   
    cd blockmesh-autoreferral-bot
    ```
 

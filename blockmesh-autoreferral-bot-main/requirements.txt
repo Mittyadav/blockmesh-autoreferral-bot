@@ -1,4 +1,0 @@
-aiohttp
-colorama
-Faker
-fake-useragent

@@ -1,0 +1,3 @@
+http://host:port
+http://user:pass@host:port
+#use proxy in this pattern 

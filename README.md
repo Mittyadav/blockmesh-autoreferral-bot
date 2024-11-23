@@ -1,5 +1,7 @@
 ## BLOCKMESH NETWORK AUTO REFERRAL BOT
 
+JOIN TELEGRAM FOR ALL COMMANDS AND SCRIPT.[TELEGRAM CHANNEL)_(https://t.me/scripthub00)_
+
 Automatic Referral Script for BlockMesh Network Account using proxies.
 
 ## PREREQUISITE
